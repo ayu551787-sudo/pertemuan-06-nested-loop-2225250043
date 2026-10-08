@@ -37,10 +37,10 @@ Catat hasil pengujian program pada tabel berikut.
 
 | No. | Input    | Hasil yang Diharapkan             | Keluaran Aktual | Status |
 | --- | -------- | --------------------------------- | --------------- | ------ |
-| 1   | `n = 3`  | Menghasilkan 9 pasangan perkalian | ...             | ...    |
-| 2   | `n = 2`  | Menghasilkan 4 pasangan perkalian | ...             | ...    |
-| 3   | `n = 0`  | Menampilkan pesan validasi input  | ...             | ...    |
-| 4   | `n = -1` | Menampilkan pesan validasi input  | ...             | ...    |
+| 1   | `n = 3`  | Menghasilkan 9 pasangan perkalian | 36              | pas    |
+| 2   | `n = 2`  | Menghasilkan 4 pasangan perkalian | 9               | pas    |
+| 3   | `n = 0`  | Menampilkan pesan validasi input  | tidak terbaca   | pas    |
+| 4   | `n = 1`  | Menampilkan pesan validasi input  | 1               | pas    |
 
 ## Analisis Efisiensi
 
